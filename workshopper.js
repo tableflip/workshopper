@@ -419,8 +419,6 @@ function onselect (name) {
         return error('Error loading exercise text:', err.message || err)
 
       print.text(this.appName, this.appDir, type, exerciseText)
-
-      console.log('footerFile', this.footerFile)
       print.file(this.appName, this.appDir, this.footerFile)
 
     }.bind(this))
