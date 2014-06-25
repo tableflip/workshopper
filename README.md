@@ -1,45 +1,6 @@
-# Workshopper
+# (╯°□°）╯︵ TABLEFLIP Workshopper
 
-**A terminal workshop runner framework**
-
-[![NPM](https://nodei.co/npm/workshopper.png?downloads=true&stars=true)](https://nodei.co/npm/workshopper/) [![NPM](https://nodei.co/npm-dl/workshopper.png?months=3)](https://nodei.co/npm/workshopper/)
-
-![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
-
-**Workshopper** is used by **[learnyounode](https://github.com/rvagg/learnyounode)**, and other Node.js command-line workshop applications.
-
-*Documentation is being written for the v1 rewrite right now! Ping @rvagg if you need anything. **learnyounode** is now using this new version, for now you can use it to see how this works.
-
-
-### Contributors
-
-<b><code>workshopper</code></b> is proudly brought to you by the following hackers:
-
-* [@rvagg](https://github.com/rvagg)
-* [@substack](https://github.com/substack)
-* [@maxogden](https://github.com/maxogden)
-* [@cjb](https://github.com/cjb)
-* [@wpreul](https://github.com/wpreul)
-* [@davglass](https://github.com/davglass)
-* [@Rowno](https://github.com/Rowno)
-* [@wilmoore](https://github.com/wilmoore)
-* [@evilpacket](https://github.com/evilpacket)
-* [@bobholt](https://github.com/bobholt)
-* [@jessmartin](https://github.com/jessmartin)
-* [@braz](https://github.com/braz)
-* [@timoxley](https://github.com/timoxley)
-* [@dominictarr](https://github.com/dominictarr)
-
-#### Maintainers
-
-* [@rvagg](https://github.com/rvagg)
-* [@substack](https://github.com/substack)
-* [@maxogden](https://github.com/maxogden)
-* [@cjb](https://github.com/cjb)
-* [@timoxley](https://github.com/timoxley)
-* [@dominictarr](https://github.com/dominictarr)
-* [@braz](https://github.com/braz)
-
+**Temporary fork of [@rvagg/workshopper](https://github.com/rvagg/workshopper) pending https://github.com/rvagg/workshopper/pull/57**
 
 ## License
 
